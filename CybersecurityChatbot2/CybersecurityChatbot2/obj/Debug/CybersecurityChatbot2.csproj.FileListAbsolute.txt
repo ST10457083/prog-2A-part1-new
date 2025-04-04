@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\CybersecurityChatbot2\CybersecurityChatbot2\bin\Debug\CybersecurityChatbot2.exe.config
+C:\Users\Dell\source\repos\CybersecurityChatbot2\CybersecurityChatbot2\bin\Debug\CybersecurityChatbot2.exe
+C:\Users\Dell\source\repos\CybersecurityChatbot2\CybersecurityChatbot2\bin\Debug\CybersecurityChatbot2.pdb
+C:\Users\Dell\source\repos\CybersecurityChatbot2\CybersecurityChatbot2\obj\Debug\CybersecurityChatbot2.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\CybersecurityChatbot2\CybersecurityChatbot2\obj\Debug\CybersecurityChatbot2.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\CybersecurityChatbot2\CybersecurityChatbot2\obj\Debug\CybersecurityChatbot2.exe
+C:\Users\Dell\source\repos\CybersecurityChatbot2\CybersecurityChatbot2\obj\Debug\CybersecurityChatbot2.pdb
